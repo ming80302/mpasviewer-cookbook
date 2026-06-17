@@ -20,7 +20,7 @@ dependencies:
   - xarray>=2025.6.1
   - zarr>=2.18.3
   - pip
-
+  - uxarray
   - pip:
       - git+https://github.com/jhbravo/earthcmap.git      
       - git+https://github.com/jhbravo/mpasviewer.git
